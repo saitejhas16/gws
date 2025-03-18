@@ -26,7 +26,7 @@ const messages = [
     { title: "", text: "Avnu nijame it starts with us but maname comedy ga tesnsion paddam but okasari matladaka chala baa anipinchindhi kadhaaa, Asalu nen first time choosinappudu entha silent gaa unna ammayi intha talkative pethara naa antey nammalekunna but ilaney baaundhi lendi calmnesskanna", img: "./images/book3.jpeg" },
     { title: "", text: "Kalisi inka chala memories create cheskovali seniorrr edhi emaina whenever you need me 'remember me as yours'", img: "./images/book4.jpeg" },
     { title: "", text: "Ah something i never told you antey chala ney unnay lendi inka chala kaburlu chepkuntey cheptha lendi suspenseuu", img: "./images/book5.jpg" },
-    { title: "Our Memories 🌟 📸", text: " Best pictures🥹" } // Final book for memories
+    { title: "Our Memories 🌟📸", text: " Best pictures🥹" } // Final book for memories
 ];
 
 // ✅ Entry Animation + Floating Emojis
